@@ -1,0 +1,13 @@
+como criar um virtual enviroment windows cmd e instalar com o pip os requirements num ar de txt
+
+python -m venv envTeste
+
+dir  //pra ver se criou
+
+envTeste\Scripts\activate.bat
+
+pip install -r requirements.txt //pra baixar os requirements
+
+deactivate
+
+
