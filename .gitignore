@@ -5,6 +5,7 @@ __pycache__/
 
 /envTeste
 /envML
+/.envTeste
 
 # C extensions
 *.so
