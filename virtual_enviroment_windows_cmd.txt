@@ -11,3 +11,8 @@ pip install -r requirements.txt //pra baixar os requirements
 deactivate
 
 
+
+no linux:
+
+source .envTeste/bin/activate
+
